@@ -1,0 +1,70 @@
+body{
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-left: 2px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #61d3d2;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #61d3d2;
+}
+
+#log_in {
+    margin-top: 12%;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+ul li{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.glyphicon{
+    font-size: 30px;
+}
+
+.navbar-default {
+    background-color: red;
+    border-color: white;
+}
+
+.sign{
+    font-weight: bolder;
+}
+
+.UIuser{
+    margin-top: 15%;
+}
